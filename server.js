@@ -15,7 +15,7 @@ app.use(cookieParser());
 
 app.use(
   cors({
-    origin: "*",
+    origin: "https://client-1yulbwf3g-abdullahrock480-gmailcom.vercel.app",
     credentials: true,
   })
 );
